@@ -32,7 +32,7 @@ I specialize in transforming raw data into actionable insights using **Excel, Po
 - Total Loss: **-$123,375.15**
 - Total Orders: **8,314**
 - Total Quantity: **31,508 units**
-- Total Customers: **728**
+- Total Customers: **798**
 
 **Top Performers:**
 - Top 5 States by Profit: California, New York, Washington, Michigan, Virginia
