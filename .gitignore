@@ -1,0 +1,20 @@
+# Data files (to be added by user)
+*.xlsx
+*.xls
+*.pbix
+*.docx
+*.doc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+~$*.xlsx
+~$*.docx
