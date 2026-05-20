@@ -99,7 +99,7 @@ I specialize in transforming raw data into actionable insights using **Excel, Po
 Each project folder contains:
 - Detailed project documentation
 - Key findings and insights
-- Dataset files (Excel/Power BI files to be uploaded)
+- Dataset files (Excel/Power BI files)
 - Analysis reports
 
 ---
